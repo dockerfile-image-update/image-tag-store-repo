@@ -2,6 +2,7 @@
   "images": {
     "someregistry.com/hello/container": "42",
     "gcr.io/some-project/some-folder/some-image": "42",
-    "someregistry.tld/omundoebao": "42"
+    "someregistry.tld/omundoebao": "42",
+    "grc.io/i/am/a/container/image": "42"
   }
 }
