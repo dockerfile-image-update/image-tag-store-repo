@@ -4,6 +4,7 @@
     "gcr.io/some-project/some-folder/some-image": "42",
     "someregistry.tld/omundoebao": "42",
     "grc.io/i/am/a/container/image": "42",
-    "someregistry.com/the-dash": "42"
+    "someregistry.com/the-dash": "42",
+    "gcr.io/the-dash": "42"
   }
 }
