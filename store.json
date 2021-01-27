@@ -1,0 +1,5 @@
+{
+  "images": {
+    "someregistry.com/hello/container": "42"
+  }
+}
